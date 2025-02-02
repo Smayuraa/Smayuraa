@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** and a **B.Tech Comp
 
 ## 👩‍💻 About Me
 - 🌱 Currently learning: **Advanced Full Stack Development** and **Competitive Programming**
-- 💻 Experienced in: HTML, CSS, JavaScript, React, Node.js, MongoDB, and Python
-- 🎨 Creator of dynamic projects, including **Spotify Web Player**, **Gamified Coding Platform**, and more!
+- 💻 Experienced in: HTML, CSS, JavaScript, React, Node.js, MongoDB, and Express .js
+- 🎨 Creator of dynamic projects, including **Employee Management System**, **Gamified Coding Platform**, and more!
 - 🎓 **B.Tech in Computer Engineering** | **SGPA: 9.25**
 - 📚 Always eager to explore new technologies and challenges
 
@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** and a **B.Tech Comp
 
 ## 🔧 My Skills
 - **Frontend Development:** HTML, CSS, JavaScript, React, Redux
-- **Backend Development:** Node.js, Express.js
+- **Backend Development:** Node.js, Express.js, Java
 - **Databases:** MongoDB, LocalStorage
-- **Other Tools:** Git, VS Code, Responsive Design
+- **Other Tools:** Git, VS Code, Responsive Design, Cloudinary
 ---
 
 ## 🌟 Featured Projects
