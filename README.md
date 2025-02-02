@@ -34,8 +34,10 @@ A robust management system developed using **React** and **localStorage**. Featu
 ---
 
 ## 📫 Connect With Me!
-- **Portfolio:** [Visit my Website](https://github.com/Smayuraa)  
+- **Portfolio:** [Visit my Website](https://portfolio-mern-stack-iakh.vercel.app/)  
 - **Email:** mayurisharma2003@gmail.com  
 - **GitHub:** [@Smayuraa](https://github.com/Smayuraa)
+- **Linkedln:** [@Software Developer](https://www.linkedin.com/in/sharma-mayuri-abc12/)
+- 
 
 Thanks for stopping by! Let's innovate together. 💡✨
