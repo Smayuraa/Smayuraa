@@ -32,6 +32,17 @@ A visually immersive travel website built using the **MERN Stack**. Users can ex
 A robust management system developed using **React** and **localStorage**. Features include role-based authentication, task management, and a responsive design powered by **React Context API** for seamless user data management.
 
 ---
+## 🌟 My GitHub Stats
+
+![Smayuraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smayuraa&show_icons=true&theme=radical)
+
+---
+
+## 📈 My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smayuraa&layout=compact&theme=radical)
+
+---
 
 ## 📫 Connect With Me!
 - **Portfolio:** [Visit my Website](https://portfolio-mern-stack-iakh.vercel.app/)  
