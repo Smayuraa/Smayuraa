@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** and a **B.Tech Comp
 - 🌱 Currently learning: **Advanced Full Stack Development** and **Competitive Programming**
 - 💻 Experienced in: HTML, CSS, JavaScript, React, Node.js, MongoDB, and Express .js
 - 🎨 Creator of dynamic projects, including **Employee Management System**, **Gamified Coding Platform**, and more!
-- 🎓 **B.Tech in Computer Engineering** | **SGPA: 9.25**
+- 🎓 **B.Tech in Computer Engineering** | **SGPA: 9.45**
 - 📚 Always eager to explore new technologies and challenges
 
 ---
