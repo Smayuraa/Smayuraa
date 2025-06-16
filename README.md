@@ -1,62 +1,62 @@
-# 👋 Hi, I'm Mayuri Sharma!
-
-### 🚀 Full Stack Developer | 🎓 B.Tech in Computer Engineering (SGPA: 9.45)
+<div align="center">
+  <img src="https://media.giphy.com/media/oYtVHSxngR3lC/giphy.gif" width="120"/>
+  <h1>👋 Hi, I'm <b>Mayuri Sharma</b></h1>
+  <p>Full‑Stack Developer @ Osumare • Ex‑Intern @ Numetry • B.Tech CSE (SGPA 9.45)</p>
+  <p>
+    <a href="https://linkedin.com/in/sharma-mayuri"><img src="https://img.shields.io/badge/LinkedIn‑blue?logo=linkedin&style=for-the-badge"/></a>
+    <a href="mailto:mayurisharma2003@gmail.com"><img src="https://img.shields.io/badge/Email‑D14836?logo=gmail&style=for-the-badge"/></a>
+    <img src="https://komarev.com/ghpvc/?username=Smayuraa&style=flat-square" alt="views"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Smayuraa&theme=radical" alt="streak"/>
+  </p>
+</div>
 
 ---
 
 ## 💼 Experience
 
-- 🏢 **Full Stack Developer @ Osumare Marketing Solutions** *(May 2025 – Present)*  
-  Building MERN‑stack solutions for clients, UX enhancements, agile team collaborations.
+| Role | Company | Period | Highlights |
+|------|---------|--------|------------|
+| 🧑‍💻 Full Stack Developer | **Osumare Marketing Solutions** | May 2025–Present | Lead MERN-stack apps, enhance UX & analytics, Agile-driven |
+| 🛠️ Software Developer Intern | **Numetry Technologies** | Oct 2024–Apr 2025 (6 mo) | Built full-stack features, implemented code enhancements, CI/CD collaboration |
 
-- 🧑‍💻 **Software Developer Intern @ Numetry Technologies** *(Oct 2024 – Apr 2025)*  
-  6-month internship; contributed to full‑stack features & code improvements in a learning‑focused environment.
+---
+
+## 🛠️ Tech Stack  
+<p align="center"><img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,java,git" /></p>
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🎮 Gamified Coding Platform  
-- Real-time coding battles, leaderboard & mini‑games built with **Phaser.js**, Socket.io (MERN).
+- ⚙️ Tech: React, Node.js, Phaser.js, Socket.io, MongoDB  
+- 🎯 Features: Real-time battles, leaderboards, mini-games  
+- ![Demo GIF](link-to-your-demo-gif)
 
 ### 🏕️ Adventure Abode  
-- Secure, responsive MERN travel app: auth, dynamic content & polished UI/UX.
+- ⚙️ Tech: MERN, JWT Auth, Responsive UI  
+- 🌍 Full-stack travel app: user accounts, dynamic content  
+- ![Project GIF](link-to-gif)
 
 ### 💼 Employee Management System  
-- React + Context API + localStorage; role-based access, mobile-first design.
+- ⚙️ Tech: React, Context API, localStorage, mobile-first design  
+- 🧩 Features: Role-based UI, task flows  
+- ![Demo Screenshot](link-to-image)
 
 ---
 
-## 🛠️ Tech Skills  
-
-![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,java,git)
-
----
-
-## 🏅 Badges & Achievements  
-
-[![GitHub stars](https://img.shields.io/github/stars/Smayuraa?style=for-the-badge&logo=github)]  
-[![Top Langs](https://img.shields.io/github/languages/top/Smayuraa?style=for-the-badge)]  
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Smayuraa.Smayuraa&style=for-the-badge)]  
-[![Profile Views](https://badges.pufler.dev/github/profile/views/Smayuraa?style=for-the-badge)]  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ME0EAA?style=for-the-badge&logo=linkedin)]  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-
----
-
-## 📫 Connect with Me  
-
-| 📬 Email | 🔗 Portfolio | 👥 LinkedIn | 💻 GitHub |
-|---------|-------------|------------|----------|
-| [mayurisharma2003@gmail.com](mailto:mayurisharma2003@gmail.com) | [portfolio-mern-stack-iakh.vercel.app](https://portfolio-mern-stack-iakh.vercel.app/) | [@sharma‑mayuri](https://www.linkedin.com/in/sharma-mayuri) | [@Smayuraa](https://github.com/Smayuraa) |
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smayuraa&show_icons=true&theme=radical)  
+## 📈 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=Smayuraa&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smayuraa&layout=compact&theme=radical)
 
 ---
 
-✨ _Let's innovate together — I'm always excited to connect, collaborate, and build amazing things!_  
+## 📫 Let’s Connect!
+
+| 🌐 Portfolio | 💌 Email | 🔗 LinkedIn | 👤 GitHub |
+|-------------|-----------|-------------|-----------|
+| [Visit](https://portfolio-mern-stack-iakh.vercel.app/) | [mayurisharma2003@gmail.com](mailto:…) | [@sharma‑mayuri](https://linkedin.com/in/sharma-mayuri) | [@Smayuraa](https://github.com/Smayuraa) |
+
+---
+
+✨ _Let's innovate together — excited to connect, collaborate & build impactful solutions!_ 🚀
