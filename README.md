@@ -27,7 +27,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,java,git" />
 </p>
-*(Powered by skillicons.dev — clean visual stack) :contentReference[oaicite:1]{index=1}*
 
 ---
 
