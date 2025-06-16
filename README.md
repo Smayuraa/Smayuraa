@@ -1,54 +1,66 @@
 # 👋 Hi, I'm Mayuri Sharma!
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** and a **B.Tech Computer Engineering Student**, passionate about building creative and innovative solutions. 🚀
+🚀 Full Stack Developer | 👩‍🎓 B.Tech in Computer Engineering (SGPA: 9.45)  
+🎯 Building innovative solutions & gamified web experiences
+
+---
+
+## 🔥 Featured Projects
+
+### 🎮 Gamified Coding Platform  
+A dynamic platform focused on gamified learning. It includes:  
+- 💡 Real-time coding battles  
+- 🏆 Leaderboards & rewards  
+- 🎮 Interactive mini-games using **Phaser.js**  
+- ⚙️ Tech: HTML5, CSS3, JS, Node.js, Express, Socket.io, MongoDB
+
+### 🏕️ Adventure Abode  
+A **MERN stack** travel app where users can:  
+- 🌍 Explore destinations  
+- 🛡️ Authenticate securely  
+- 📡 Handle real-time data  
+- 🖼️ Experience responsive design
+
+### 💼 Employee Management System  
+React-based system with:  
+- 👩‍💼 Role-based access  
+- 📁 Task management  
+- 🌐 Context API + localStorage  
+- 📱 Fully responsive layout
+
+---
+
+## 📫 Let’s Connect!
+
+- 🌐 **Portfolio**: [Visit My Website](https://portfolio-mern-stack-iakh.vercel.app/)
+- 💌 **Email**: [mayurisharma2003@gmail.com](mailto:mayurisharma2003@gmail.com)
+- 💼 **LinkedIn**: [@sharma-mayuri](https://www.linkedin.com/in/sharma-mayuri)
+- 🧑‍💻 **GitHub**: [@Smayuraa](https://github.com/Smayuraa)
 
 ---
 
 ## 👩‍💻 About Me
-- 🌱 Currently learning: **Advanced Full Stack Development** and **Competitive Programming**
-- 💻 Experienced in: HTML, CSS, JavaScript, React, Node.js, MongoDB, and Express .js
-- 🎨 Creator of dynamic projects, including **Employee Management System**, **Gamified Coding Platform**, and more!
-- 🎓 **B.Tech in Computer Engineering** | **SGPA: 9.45**
-- 📚 Always eager to explore new technologies and challenges
+- 🔍 Exploring: **Advanced Full Stack Development**, **Competitive Programming**
+- 💻 Experienced with: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Java
+- 🛠️ Passionate about: creative UIs, performance optimization & collaborative development
+- 🧠 Always learning, always building!
 
 ---
 
-## 🔧 My Skills
-- **Frontend Development:** HTML, CSS, JavaScript, React, Redux
-- **Backend Development:** Node.js, Express.js, Java
-- **Databases:** MongoDB, LocalStorage
-- **Other Tools:** Git, VS Code, Responsive Design, Cloudinary
----
+## 🧠 Skills At a Glance
 
-## 🌟 Featured Projects
-
-### 🎮 Gamified Coding Platform  
-An interactive platform for gamification-based learning with real-time tracking and adaptive features.
-
-###  🏕️ Adventure Abode
-A visually immersive travel website built using the **MERN Stack**. Users can explore destinations, view dynamic content, and enjoy a responsive UI. Features include secure user authentication, real-time data management, and modular backend services, making it a seamless full-stack travel experience.
-
-### 💼 Employee Management System  
-A robust management system developed using **React** and **localStorage**. Features include role-based authentication, task management, and a responsive design powered by **React Context API** for seamless user data management.
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| HTML, CSS, JS, React, Redux | Node.js, Express.js, Java | MongoDB, localStorage | Git, VS Code, Cloudinary |
 
 ---
-## 🌟 My GitHub Stats
+
+## 📊 GitHub Stats
 
 ![Smayuraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smayuraa&show_icons=true&theme=radical)
-
----
-
-## 📈 My Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smayuraa&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect With Me!
-- **Portfolio:** [Visit my Website](https://portfolio-mern-stack-iakh.vercel.app/)  
-- **Email:** mayurisharma2003@gmail.com  
-- **GitHub:** [@Smayuraa](https://github.com/Smayuraa)
-- **Linkedln:** [@Software Developer](https://www.linkedin.com/in/sharma-mayuri)
-  
-
-Thanks for stopping by! Let's innovate together. 💡✨
+✨ _Thanks for visiting! Let's connect, collaborate, and code something extraordinary._  
