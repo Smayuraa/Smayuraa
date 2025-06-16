@@ -1,59 +1,62 @@
 # 👋 Hi, I'm Mayuri Sharma!
 
-🚀 Full Stack Developer | 👩‍🎓 B.Tech in Computer Engineering (SGPA: 9.45)
+### 🚀 Full Stack Developer | 🎓 B.Tech in Computer Engineering (SGPA: 9.45)
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-### 💻 Full Stack Developer  
-**Osumare Marketing Solutions Pvt. Ltd.** – Pune, Maharashtra  
-*June 2025 – Present*  
-At Osumare, a leading digital marketing & web dev agency focused on 360° marketing solutions, I build client-facing MERN-stack applications, collaborate in agile teams, and enhance web analytics and UX to drive measurable results :contentReference[oaicite:1]{index=1}.
+- 🏢 **Full Stack Developer @ Osumare Marketing Solutions** *(May 2025 – Present)*  
+  Building MERN‑stack solutions for clients, UX enhancements, agile team collaborations.
 
-### 🛠️ Software Developer Intern (6 months)  
-**Numetry Technologies** – Pune, Maharashtra  
-*Jan 2025 – June 2025*  
-Gained hands‑on full‑stack experience by working on real‑world features, improving code quality, and collaborating with cross‑functional teams. Company praised for its strong learning-oriented environment :contentReference[oaicite:2]{index=2}.
+- 🧑‍💻 **Software Developer Intern @ Numetry Technologies** *(Oct 2024 – Apr 2025)*  
+  6-month internship; contributed to full‑stack features & code improvements in a learning‑focused environment.
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🎮 Gamified Coding Platform  
-A dynamic learning tool with real‑time battles, leaderboards & mini‑games using Phaser.js and Socket.io (MERN stack).
+- Real-time coding battles, leaderboard & mini‑games built with **Phaser.js**, Socket.io (MERN).
 
 ### 🏕️ Adventure Abode  
-A full-stack MERN travel app: secure authentication, dynamic content, responsive design powered by React, Node.js & MongoDB.
+- Secure, responsive MERN travel app: auth, dynamic content & polished UI/UX.
 
 ### 💼 Employee Management System  
-React app with Context API + localStorage, featuring role-based login, task management, and mobile-first UI.
+- React + Context API + localStorage; role-based access, mobile-first design.
 
 ---
 
-## 🛠️ Tech Skills
+## 🛠️ Tech Skills  
 
-**Frontend:** HTML, CSS, JavaScript, React, Redux  
-**Backend:** Node.js, Express.js, Java  
-**Databases:** MongoDB, localStorage  
-**Tools & Practices:** Git, VS Code, Cloudinary, Responsive Design, Agile Scrum
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,java,git)
 
 ---
 
-## 📫 Let’s Connect!
+## 🏅 Badges & Achievements  
 
-- 🌐 **Portfolio:** [portfolio-mern-stack-iakh.vercel.app](https://portfolio-mern-stack-iakh.vercel.app/)  
-- 💌 **Email:** [mayurisharma2003@gmail.com](mailto:mayurisharma2003@gmail.com)  
-- 💼 **LinkedIn:** [@sharma‑mayuri](https://www.linkedin.com/in/sharma-mayuri)  
-- 🧑‍💻 **GitHub:** [@Smayuraa](https://github.com/Smayuraa)
+[![GitHub stars](https://img.shields.io/github/stars/Smayuraa?style=for-the-badge&logo=github)]  
+[![Top Langs](https://img.shields.io/github/languages/top/Smayuraa?style=for-the-badge)]  
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Smayuraa.Smayuraa&style=for-the-badge)]  
+[![Profile Views](https://badges.pufler.dev/github/profile/views/Smayuraa?style=for-the-badge)]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ME0EAA?style=for-the-badge&logo=linkedin)]  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect with Me  
+
+| 📬 Email | 🔗 Portfolio | 👥 LinkedIn | 💻 GitHub |
+|---------|-------------|------------|----------|
+| [mayurisharma2003@gmail.com](mailto:mayurisharma2003@gmail.com) | [portfolio-mern-stack-iakh.vercel.app](https://portfolio-mern-stack-iakh.vercel.app/) | [@sharma‑mayuri](https://www.linkedin.com/in/sharma-mayuri) | [@Smayuraa](https://github.com/Smayuraa) |
+
+---
+
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smayuraa&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smayuraa&layout=compact&theme=radical)
 
 ---
 
-✨ _Thanks for stopping by! Whether you're looking to collaborate, share ideas, or just say hi—I'd love to connect!_  
+✨ _Let's innovate together — I'm always excited to connect, collaborate, and build amazing things!_  
