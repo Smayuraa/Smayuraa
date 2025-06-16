@@ -18,8 +18,8 @@
 
 | Role                     | Company                              | Period              |
 |--------------------------|---------------------------------------|---------------------|
-| 🧑‍💻 Full‑Stack Developer | **Osumare Marketing Solutions**       | May 2025 – Present  |
-| 🛠️ Software Developer Intern | **Numetry Technologies**              | Oct 2024 – Apr 2025 |
+| 🧑‍💻 Full‑Stack Developer | **Osumare Marketing Solutions**       | June 2025 – Present  |
+| 🛠️ Software Developer Intern | **Numetry Technologies**              | Jan 2025 – June 2025 |
 
 ---
 
