@@ -1,66 +1,59 @@
 # 👋 Hi, I'm Mayuri Sharma!
 
-🚀 Full Stack Developer | 👩‍🎓 B.Tech in Computer Engineering (SGPA: 9.45)  
-🎯 Building innovative solutions & gamified web experiences
+🚀 Full Stack Developer | 👩‍🎓 B.Tech in Computer Engineering (SGPA: 9.45)
+
+---
+
+## 💼 Experience Highlights
+
+### 💻 Full Stack Developer  
+**Osumare Marketing Solutions Pvt. Ltd.** – Pune, Maharashtra  
+*June 2025 – Present*  
+At Osumare, a leading digital marketing & web dev agency focused on 360° marketing solutions, I build client-facing MERN-stack applications, collaborate in agile teams, and enhance web analytics and UX to drive measurable results :contentReference[oaicite:1]{index=1}.
+
+### 🛠️ Software Developer Intern (6 months)  
+**Numetry Technologies** – Pune, Maharashtra  
+*Jan 2025 – June 2025*  
+Gained hands‑on full‑stack experience by working on real‑world features, improving code quality, and collaborating with cross‑functional teams. Company praised for its strong learning-oriented environment :contentReference[oaicite:2]{index=2}.
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🎮 Gamified Coding Platform  
-A dynamic platform focused on gamified learning. It includes:  
-- 💡 Real-time coding battles  
-- 🏆 Leaderboards & rewards  
-- 🎮 Interactive mini-games using **Phaser.js**  
-- ⚙️ Tech: HTML5, CSS3, JS, Node.js, Express, Socket.io, MongoDB
+A dynamic learning tool with real‑time battles, leaderboards & mini‑games using Phaser.js and Socket.io (MERN stack).
 
 ### 🏕️ Adventure Abode  
-A **MERN stack** travel app where users can:  
-- 🌍 Explore destinations  
-- 🛡️ Authenticate securely  
-- 📡 Handle real-time data  
-- 🖼️ Experience responsive design
+A full-stack MERN travel app: secure authentication, dynamic content, responsive design powered by React, Node.js & MongoDB.
 
 ### 💼 Employee Management System  
-React-based system with:  
-- 👩‍💼 Role-based access  
-- 📁 Task management  
-- 🌐 Context API + localStorage  
-- 📱 Fully responsive layout
+React app with Context API + localStorage, featuring role-based login, task management, and mobile-first UI.
+
+---
+
+## 🛠️ Tech Skills
+
+**Frontend:** HTML, CSS, JavaScript, React, Redux  
+**Backend:** Node.js, Express.js, Java  
+**Databases:** MongoDB, localStorage  
+**Tools & Practices:** Git, VS Code, Cloudinary, Responsive Design, Agile Scrum
 
 ---
 
 ## 📫 Let’s Connect!
 
-- 🌐 **Portfolio**: [Visit My Website](https://portfolio-mern-stack-iakh.vercel.app/)
-- 💌 **Email**: [mayurisharma2003@gmail.com](mailto:mayurisharma2003@gmail.com)
-- 💼 **LinkedIn**: [@sharma-mayuri](https://www.linkedin.com/in/sharma-mayuri)
-- 🧑‍💻 **GitHub**: [@Smayuraa](https://github.com/Smayuraa)
-
----
-
-## 👩‍💻 About Me
-- 🔍 Exploring: **Advanced Full Stack Development**, **Competitive Programming**
-- 💻 Experienced with: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Java
-- 🛠️ Passionate about: creative UIs, performance optimization & collaborative development
-- 🧠 Always learning, always building!
-
----
-
-## 🧠 Skills At a Glance
-
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| HTML, CSS, JS, React, Redux | Node.js, Express.js, Java | MongoDB, localStorage | Git, VS Code, Cloudinary |
+- 🌐 **Portfolio:** [portfolio-mern-stack-iakh.vercel.app](https://portfolio-mern-stack-iakh.vercel.app/)  
+- 💌 **Email:** [mayurisharma2003@gmail.com](mailto:mayurisharma2003@gmail.com)  
+- 💼 **LinkedIn:** [@sharma‑mayuri](https://www.linkedin.com/in/sharma-mayuri)  
+- 🧑‍💻 **GitHub:** [@Smayuraa](https://github.com/Smayuraa)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Smayuraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smayuraa&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smayuraa&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smayuraa&layout=compact&theme=radical)
 
 ---
 
-✨ _Thanks for visiting! Let's connect, collaborate, and code something extraordinary._  
+✨ _Thanks for stopping by! Whether you're looking to collaborate, share ideas, or just say hi—I'd love to connect!_  
