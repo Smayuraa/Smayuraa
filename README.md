@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://i.pinimg.com/736x/1f/87/b2/1f87b29a2df46100a75aa86b170a21cb.jpg" width="150" alt="Coder illustration" />
   <h1>👋 Hi, I’m **Mayuri Sharma**</h1>
   <p>Full‑Stack Developer @ Osumare • Ex‑Intern @ Numetry (6 mo) • B.Tech CSE (SGPA 9.45)</p>
   <p>
@@ -27,7 +28,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,java,git" />
 </p>
-*(Powered by skillicons.dev — clean visual stack) :contentReference[oaicite:1]{index=1}*
 
 ---
 
