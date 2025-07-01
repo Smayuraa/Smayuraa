@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I’m **Mayuri Sharma**</h1>
-  <p>Full‑Stack Developer @ Osumare • Ex‑Intern @ Numetry (6 mo) • B.Tech CSE (SGPA 9.45)</p>
+  <p>Full‑Stack Developer @ Osumare • Ex‑Intern @ Numetry (6 mo) • B.Tech CSE (CGPA 9.12)</p>
   <p>
     <a href="https://linkedin.com/in/sharma-mayuri">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
