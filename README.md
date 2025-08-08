@@ -61,7 +61,7 @@
 - **Description**: A personal agency website showcasing services, past projects, and contact info  
 - **Live Demo**:  
   <p align="center"><a href="https://last-night-engineering.onrender.com/" target="_blank">
-    <img src="images/lne-screenshot.png" width="400" alt="LNE Screenshot"/>
+    <img src="https://img.freepik.com/premium-vector/hotel-booking-icon-simple-element-illustration-hotel-booking-concept-symbol-design-can-be-used-web-mobile_159242-7924.jpg" width="400" alt="LNE Screenshot"/>
   </a></p>
 
 ---
