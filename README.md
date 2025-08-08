@@ -45,7 +45,7 @@
 - **Features**: Secure travel app with user accounts & dynamic content  
 - **Demo**:  
   <p align="center"><a href="https://adventureabode.onrender.com/" target="_blank">
-    <img src="images/adventure-demo.gif" width="400" alt="Adventure Demo"/>
+    <img src="https://img.freepik.com/premium-vector/hotel-booking-icon-simple-element-illustration-hotel-booking-concept-symbol-design-can-be-used-web-mobile_159242-7924.jpg" width="400" alt="Adventure Demo"/>
   </a></p>
 
 ### 💼 Employee Management System  
@@ -61,7 +61,7 @@
 - **Description**: A personal agency website showcasing services, past projects, and contact info  
 - **Live Demo**:  
   <p align="center"><a href="https://last-night-engineering.onrender.com/" target="_blank">
-    <img src="https://img.freepik.com/premium-vector/hotel-booking-icon-simple-element-illustration-hotel-booking-concept-symbol-design-can-be-used-web-mobile_159242-7924.jpg" width="400" alt="LNE Screenshot"/>
+    <img src="images/lne.png" width="400" alt="LNE Screenshot"/>
   </a></p>
 
 ---
