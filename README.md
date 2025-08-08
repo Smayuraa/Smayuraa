@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I’m **Mayuri Sharma**</h1>
+  <h1>👋 Hi, I’m <strong>Mayuri Sharma</strong></h1>
   <p>Full‑Stack Developer @ Osumare • Ex‑Intern @ Numetry (6 mo) • B.Tech CSE (CGPA 9.12)</p>
   <p>
     <a href="https://linkedin.com/in/sharma-mayuri">
@@ -18,8 +18,8 @@
 
 | Role                     | Company                              | Period              |
 |--------------------------|---------------------------------------|---------------------|
-| 🧑‍💻 Full‑Stack Developer | **Osumare Marketing Solutions**       | June 2025 – Present  |
-| 🛠️ Software Developer Intern | **Numetry Technologies**              | Jan 2025 – June 2025 |
+| 🧑‍💻 Full‑Stack Developer | **Osumare Marketing Solutions**       | June 2025 – Present |
+| 🛠️ Software Developer Intern | **Numetry Technologies**          | Jan 2025 – June 2025 |
 
 ---
 
@@ -44,17 +44,25 @@
 - **Tech**: MERN (React, Node.js, MongoDB) + JWT auth  
 - **Features**: Secure travel app with user accounts & dynamic content  
 - **Demo**:  
-  <p align="center">
+  <p align="center"><a href="https://adventureabode.onrender.com/" target="_blank">
     <img src="images/adventure-demo.gif" width="400" alt="Adventure Demo"/>
-  </p>
+  </a></p>
 
 ### 💼 Employee Management System  
 - **Tech**: React • Context API • localStorage  
 - **Features**: Role‑based access control, task management, mobile‑friendly UI  
 - **Screenshot**:  
-  <p align="center">
+  <p align="center"> <a href="https://emptrack.netlify.app/" target="_blank">
     <img src="images/ems-screenshot.png" width="400" alt="EMS Screenshot"/>
-  </p>
+  </a></p>
+
+### 🛠️ Last Night Engineering  
+- **Tech**: HTML • CSS • JavaScript  
+- **Description**: A personal agency website showcasing services, past projects, and contact info  
+- **Live Demo**:  
+  <p align="center"><a href="https://last-night-engineering.onrender.com/" target="_blank">
+    <img src="images/lne-screenshot.png" width="400" alt="LNE Screenshot"/>
+  </a></p>
 
 ---
 
