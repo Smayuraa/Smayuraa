@@ -37,7 +37,7 @@
 - **Highlights**: Real‑time coding battles, leaderboards, mini‑games  
 - **Demo**:  
   <p align="center">
-    <img src="images/gamified-demo.gif" width="400" alt="Platform Demo"/>
+    <img src="https://curiositycatch.com/wp-content/uploads/2025/03/DALL%C2%B7E-2025-03-11-22.05.26-A-highly-engaging-and-realistic-YouTube-thumbnail-for-Gamified-Coding.-The-thumbnail-should-feature-a-young-person-sitting-at-a-modern-computer-setu-768x439.webp" width="400" alt="Platform Demo"/>
   </p>
 
 ### 🏕️ Adventure Abode  
@@ -53,7 +53,7 @@
 - **Features**: Role‑based access control, task management, mobile‑friendly UI  
 - **Screenshot**:  
   <p align="center"> <a href="https://emptrack.netlify.app/" target="_blank">
-    <img src="images/ems-screenshot.png" width="400" alt="EMS Screenshot"/>
+    <img src="https://www.lystloc.com/blog/wp-content/uploads/2023/01/Top-20-Employee-Management-Software-For-2023.webp" width="400" alt="EMS Screenshot"/>
   </a></p>
 
 ### 🛠️ Last Night Engineering  
